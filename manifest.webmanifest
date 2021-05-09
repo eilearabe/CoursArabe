@@ -1,12 +1,18 @@
 {
+
  "short_name": "CoursArabe",
  "name": "LangueArabe",
- "lang": "fr",
+ "lang": "zxx",
  "background_color": "#00e7e7",
  "theme_color": "#0009e7",
  "dir": "auto",
  "display": "standalone",
  "orientation": "any",
+ "prefer_related_applications": true,
+ "start_url": "./",
+
+
+
  "icons": [
   {
    "src": "icon/android-icon-192x192-dunplab-manifest-48009.png",
@@ -25,12 +31,7 @@
   },
 
 
-   {
-        "src": "icon/icons-512.png",
-        "type": "image/png",
-        "sizes": "512x512",
-         "purpose": "any maskable"
-        },
+  
 
   
 
