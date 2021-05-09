@@ -560,7 +560,7 @@ a {
       right: 0;
       bottom: 0;
       z-index: 0;
-      width: 20%;
+      width: 100%;
       background: rgba(0, 0, 0, 0.7); }
   .bg-image > .container {
     position: relative;
@@ -630,6 +630,13 @@ a {
   .ul-check.primary li:before {
     color: #dc3545; }
 
+
+
+
+
+
+
+
 .select-wrap, .wrap-icon {
   position: relative; }
   .select-wrap .icon, .wrap-icon .icon {
@@ -648,6 +655,15 @@ a {
 
 .top-bar {
   border-bottom: 1px solid #e9ecef !important; }
+
+
+
+
+
+
+
+
+
 
 /* Navbar */
 .site-navbar {
@@ -788,6 +804,21 @@ a {
           margin-top: 0px;
           visibility: visible;
           opacity: 1; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .site-mobile-menu {
   width: 300px;
@@ -964,6 +995,17 @@ a {
       .sticky-wrapper .shrink {
         padding-top: 30px !important;
         padding-bottom: 30px !important; } }
+
+
+
+
+
+
+
+
+
+
+
 
 /* Blocks */
 .site-section-cover {
@@ -1418,6 +1460,20 @@ a {
       width: 20px;
       background: #fff; }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .footer-suscribe-form .form-control {
   color: #000; }
   .footer-suscribe-form .form-control:hover, .footer-suscribe-form .form-control:active, .footer-suscribe-form .form-control:focus {
@@ -1736,6 +1792,19 @@ a {
     flex: 0 0 50px;
     border-radius: 50%; }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* barberz */
 .scissors {
   position: relative;
@@ -1793,6 +1862,9 @@ a {
   .hair-style .place p {
     font-size: 13px;
     color: #ccc; }
+
+
+
 
 .img-years {
   position: relative;
