@@ -23,6 +23,23 @@
    "type": "image/png",
    "sizes": "152x152"
   },
+
+
+   {
+        "src": "images/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+         "purpose": "any maskable"
+        }
+
+  
+
+
+
+
+
+
+
   {
    "src": "icon/apple-icon-144x144-dunplab-manifest-48009.png",
    "type": "image/png",
@@ -76,3 +93,7 @@
  ],
  "prefer_related_applications": "false"
 }
+
+
+
+"purpose": "any maskable"
