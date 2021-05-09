@@ -9,69 +9,69 @@
  "orientation": "any",
  "icons": [
   {
-   "src": "icon/android-icon-192x192-dunplab-manifest-47709.png",
+   "src": "/android-icon-192x192-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "192x72"
+   "sizes": "192x192"
   },
   {
-   "src": "icon/apple-icon-180x180-dunplab-manifest-47709.png",
+   "src": "/apple-icon-180x180-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "180x68"
+   "sizes": "180x180"
   },
   {
-   "src": "icon/apple-icon-152x152-dunplab-manifest-47709.png",
+   "src": "/apple-icon-152x152-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "152x57"
+   "sizes": "152x152"
   },
   {
-   "src": "icon/apple-icon-144x144-dunplab-manifest-47709.png",
+   "src": "/apple-icon-144x144-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "144x54"
+   "sizes": "144x144"
   },
   {
-   "src": "icon/apple-icon-120x120-dunplab-manifest-47709.png",
+   "src": "/apple-icon-120x120-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "120x45"
+   "sizes": "120x120"
   },
   {
-   "src": "icon/apple-icon-114x114-dunplab-manifest-47709.png",
+   "src": "/apple-icon-114x114-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "114x43"
+   "sizes": "114x114"
   },
   {
-   "src": "icon/favicon-96x96-dunplab-manifest-47709.png",
+   "src": "/favicon-96x96-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "96x36"
+   "sizes": "96x96"
   },
   {
-   "src": "icon/apple-icon-76x76-dunplab-manifest-47709.png",
+   "src": "/apple-icon-76x76-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "76x29"
+   "sizes": "76x76"
   },
   {
-   "src": "icon/apple-icon-72x72-dunplab-manifest-47709.png",
+   "src": "/apple-icon-72x72-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "72x27"
+   "sizes": "72x72"
   },
   {
-   "src": "icon/apple-icon-60x60-dunplab-manifest-47709.png",
+   "src": "/apple-icon-60x60-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "60x23"
+   "sizes": "60x60"
   },
   {
-   "src": "icon/apple-icon-57x57-dunplab-manifest-47709.png",
+   "src": "/apple-icon-57x57-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "57x21"
+   "sizes": "57x57"
   },
   {
-   "src": "/favicon-32x32-dunplab-manifest-47709.png",
+   "src": "/favicon-32x32-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "32x12"
+   "sizes": "32x32"
   },
   {
-   "src": "icon/favicon-16x16-dunplab-manifest-47709.png",
+   "src": "/favicon-16x16-dunplab-manifest-48009.png",
    "type": "image/png",
-   "sizes": "16x6"
+   "sizes": "16x16"
   }
  ],
  "prefer_related_applications": "false"
