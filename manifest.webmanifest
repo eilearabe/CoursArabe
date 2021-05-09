@@ -7,6 +7,10 @@
  "dir": "auto",
  "display": "standalone",
  "orientation": "any",
+
+ "scope":"/CoursArabe/",
+
+
  "icons": [
   {
    "src": "icon/android-icon-192x192-dunplab-manifest-47709.png",
