@@ -1,4 +1,6 @@
 {
+
+
  "short_name": "CoursArabe",
  "name": "LangueArabe",
  "lang": "fr",
@@ -7,6 +9,16 @@
  "dir": "auto",
  "display": "standalone",
  "orientation": "any",
+ "start_url": "./",
+ "scope": "/",
+
+
+
+
+
+
+
+
  "icons": [
   {
    "src": "/android-icon-192x192-dunplab-manifest-47709.png",
